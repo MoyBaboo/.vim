@@ -4,3 +4,10 @@
 [submodule "ftcolor.vim"]
 	path = bundle/ftcolor.vim
 	url = https://github.com/caglartoklu/ftcolor.vim.git
+[submodule "vimproc.vim"]
+	path = bundle/vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim
+[submodule "vimshell.vim"]
+	path = bundle/vimshell.vim
+	url = https://github.com/Shougo/vimshell.vim.git
+
