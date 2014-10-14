@@ -1,0 +1,6 @@
+[submodule "smartgf.vim"]
+	path = bundle/smartgf.vim
+	url = https://github.com/gorkunov/smartgf.vim.git
+[submodule "ftcolor.vim"]
+	path = bundle/ftcolor.vim
+	url = https://github.com/caglartoklu/ftcolor.vim.git
