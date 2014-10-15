@@ -10,4 +10,6 @@
 [submodule "vimshell.vim"]
 	path = bundle/vimshell.vim
 	url = https://github.com/Shougo/vimshell.vim.git
-
+[submodule "unite.vim"]
+	path = bundle/unite.vim
+	url = https://github.com/Shougo/unite.vim
