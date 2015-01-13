@@ -1,4 +1,4 @@
-cp .vimrc ..
+cp vimrc ../.vimrc
 git submodule init
 git submodule update
 ln bundle/ftcolor.vim/plugin/ftcolor.vim bundle/ftcolor.vim/.
